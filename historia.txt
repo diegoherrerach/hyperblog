@@ -1,5 +1,9 @@
 Esta es la historia de Diego Herrera
 
-Diego Herrera tiene 26 años y nací en Lima Perú
+Diego Herrera tiene 26 años y nació en Lima Perú
+
+Ahora vive en Mazamari con sus padres
+
+Y estudia en platzi, ahora esta aprendiendo Git
 
 Hoy hablaremos de su historia.
