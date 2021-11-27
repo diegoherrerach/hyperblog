@@ -1,14 +1,8 @@
 body{
     color: darkviolet;
-<<<<<<< HEAD
-    text-align:left;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16 px ;
-=======
     text-align:center;
     font-family: "Arial";
     font-size: 16px ;
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
